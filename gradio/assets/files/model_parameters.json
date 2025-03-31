@@ -1,0 +1,1 @@
+{"encoder_input_size": 10, "encoder_hidden_size": 256, "encoder_num_layers": 1, "encoder_dropout_p": 0.2, "mlp_input_size": 2, "mlp_output_size": 64, "mlp_dropout_p": 0.2, "output_size": 3}
