@@ -34,6 +34,6 @@ python3 gradio/app.py
 
 ## Citation
 Please cite:<br>
->Conformal prediction enables disease course prediction and allows individualized diagnostic uncertainty in multiple sclerosis<br>
->Akshai Parakkal Sreenivasan, Aina Vaivade, Yassine Noui, Payam Emami Khoonsari, Joachim Burman, Ola Spjuth, Kim Kultima*<br>
->Status: Submitted.
+>Sreenivasan, A.P., Vaivade, A., Noui, Y. et al. Conformal prediction enables disease course prediction and <br>
+>allows individualized diagnostic uncertainty in multiple sclerosis. npj Digit. Med. 8, 224 (2025). <br>
+>https://doi.org/10.1038/s41746-025-01616-z
